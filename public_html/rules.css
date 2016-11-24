@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 14, 2016, 2:08:46 PM
+    Author     : USER
+*/
+body{
+    width:100%;
+    overflow-x:hidden;
+    display:inline-block;
+    background-image:url('background-FinancialAid.jpg');
+    height:600px;
+}
+.label{
+    padding-right:20%;
+    height:100px;
+}
+.label img{
+    padding-top:25px;
+    height:50px;
+}
+.bar{
+    width:100%;
+    background-color:black;
+    height:30px;
+    list-style-type:none;
+    
+}
+.top{
+    background-color:black;
+    height:130px;
+    width:100%;
+}
+.bar div{
+    display:inline-block;
+    height:100%;
+    background-color:#B1810B;
+    width:12%;
+    border-radius:5px;
+}
+a{
+    text-decoration:none;
+}
+.center{
+    background-color: rgba(255, 255, 255, 0.5);
+    height:1000px;
+    width:90%;
+    margin-left:5%;
+    margin-top:20px;
+    
+}
+.center div{
+    width:440px;
+    height:355px;
+    border-radius:5px;
+    display:inline-block;
+    
+}
+.center iframe{
+    margin-left:10px;
+    margin-top:5px;
+    
+}
+.center .num2 div{
+    width:99%;
+    height:48%;
+    margin-bottom:1%;
+    background-color:#B1810B;
+    border:2px solid black;
+}
+.center .video{
+    background-color:black;
+} 
